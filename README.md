@@ -1,5 +1,5 @@
 # Inverse is not included in this plugin for a myriad of reasons. Below are the plugins I have opted for. More may be added in the future!
-~~Confidence: KOing a pokemon with Attacks/Special Attacks raises the stat by 1. Being unable to KO lowers the stat by 1.~~
+~~Confidence~~: KOing a pokemon with Attacks/Special Attacks raises the stat by 1. Being unable to KO lowers the stat by 1.
 ~~Ability Share~~: All Pokemon share the same ability.
 **Shared Levels**: All Pokemon's stats are calced to the same level.
 **Benjamin Butterfree**: Pokemon devolve upon fainting. Once it has fainted in its initial form, it will be fainted until the next battle (unless revived).
