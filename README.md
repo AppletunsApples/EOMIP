@@ -1,4 +1,4 @@
-# Inverse is not included in this plugin for a myriad of reasons. Below are the plugins I have opted for. More may be added in the future!
+# Inverse is not included in this plugin for a myriad of reasons. Below are the plugins I have opted for (and plan to add if not added already). More may be added in the future!
 1. ~~Confidence~~: KOing a pokemon with Attacks/Special Attacks raises the stat by 1. Being unable to KO lowers the stat by 1.
 2. ~~Ability Share~~: All Pokemon share the same ability.
 3. **Shared Levels**: All Pokemon's stats are calced to the same level.
