@@ -5,4 +5,4 @@
 4. **Benjamin Butterfree**: Pokemon devolve upon fainting. Once it has fainted in its initial form, it will be fainted until the next battle (unless revived).
 5. ~~Interdependence~~: Slots 1&2, 3&4, 5&6 are linked. If a pokemon from a linked slot (slot 1) dies, so does the Pokemon in the other linked slot (slot 2).
 6. ~~Survival Cup~~: Every team has one Pioneer. The way to win is by defeating the Pioneer. There is no team preview and you can't know who the pioneer is. (randomized for both NPC & player teams respectively)
-7. ~~Split Swap~~: Physical (Atk & Def) and Special (SpA & Sp.Def) respectively swap with each other
+7. **Split Stat Swap**: Physical (Atk & Def) and Special (SpA & Sp.Def) respectively swap with each other
