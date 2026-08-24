@@ -5,7 +5,7 @@
 
 4. ~~Confidence~~: KOing a pokemon with Attacks/Special Attacks raises the stat by 1. Being unable to KO lowers the stat by 1.
 5. ~~Ability Share~~: All Pokemon share the same ability.
-6. ~~Glaring Gift (modified Godly Gift)~~: The Pokemon's stats are decided by placement in the team. If using less then 6 (for ex. 5), each Pokemon will retain their last spot's stat.
+6. ~~Glaring Gift (modified Godly Gift)~~: The Pokemon's stats are decided by placement in the team. If using less then 6 (for ex. 5), each Pokemon will retain their stat of the unused team spots.
 7. ~~Interdependence~~: Slots 1&2, 3&4, 5&6 are linked. If a pokemon from a linked slot (slot 1) dies, so does the Pokemon in the other linked slot (slot 2).
 8. ~~Mix 'n Mega~~: Pokemon get stat boosts based off which Mega Stone is used on it.
 9. ~~Survival Cup~~: Every team has one Pioneer. The way to win is by defeating the Pioneer. There is no team preview and you can't know who the pioneer is. (randomized for both NPC & player teams respectively)
